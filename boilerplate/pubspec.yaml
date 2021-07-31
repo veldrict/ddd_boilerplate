@@ -26,7 +26,9 @@ dependencies:
   bloc: ^7.0.0
   connectivity: ^3.0.6
   cupertino_icons: ^1.0.2
+  dartz: ^0.10.0-nullsafety.2
   dio: ^4.0.0
+  fast_immutable_collections: ^5.1.2
   flutter_bloc: ^7.1.0
   flutter_secure_storage: ^4.2.1
   freezed_annotation: ^0.14.2
@@ -36,6 +38,7 @@ dependencies:
   hive_flutter: ^1.1.0
   injectable: ^1.4.1
   intl: ^0.17.0
+  uuid: ^3.0.4
 
 dev_dependencies:
   flutter_test:
@@ -88,4 +91,3 @@ flutter_intl:
   class_name: I10n
   arb_dir: lib/presentation/core/i10n
   output_dir: lib/presentation/core/i10n
-
